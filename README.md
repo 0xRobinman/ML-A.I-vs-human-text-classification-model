@@ -13,9 +13,6 @@ pip install -r requirements.txt
 curl -L -o ./datasets https://www.kaggle.com/api/v1/datasets/download/alejopaullier/daigt-external-dataset
 python3  model.py
 ```
-Dataset: 
-https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data (MIT)
-
 
 ## License
 This project is licensed under the MIT License. See the ``LICENSE`` file for details.
